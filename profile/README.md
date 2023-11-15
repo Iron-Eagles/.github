@@ -15,3 +15,5 @@ Feel free to remove hyphens when providing a string for the driver to select in 
 At the time of writing this page, I am currently working on training new apprentices to both code using Android Studio and use git as version control. If you lose access to someone who knows how to manage those codebases, please ask Mr. Strzyinski for a way to contact me and I will do my best to help you.
 
 You may always use FIRST's documentation, and decide to retun to OnBotJava if you determine it is better for your skill level. However, I suggest git and Android Studio, as it gives you proper experience with programs used in professional careers. Ultimately, do what works best for you.
+
+While I'll be hypocritcal and won't do it to myself, I suggest removing writing permissions from alumni, simply for security reasons if their account is compromised.
