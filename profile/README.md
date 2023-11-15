@@ -12,6 +12,6 @@ To name your TeleOp files, I suggest adding something like the acronym of the co
 Autonomous scripts should be named similarly, just make sure to include your position and alliance color if necessary. For example, "CS-PushBot-Left-Red-2". 
 Feel free to remove hyphens when providing a string for the driver to select in the driver station.
 
-At the time of writing this page, I am currently working on training new apprentices on how to both code using Android Studio and how to use git as version control. If you lose access to someone who knows how to manage those codebases, please ask Mr. Strzyinski for a way to contact me and I will do my best to help you.
+At the time of writing this page, I am currently working on training new apprentices to both code using Android Studio and how to use git as version control. If you lose access to someone who knows how to manage those codebases, please ask Mr. Strzyinski for a way to contact me and I will do my best to help you.
 
 You may always use FIRST's documentation, and decide to retun to OnBotJava if you determine it is easier for your skill level. I suggest this in the long run, as it gives you proper experience with programs used in professional careers, but please do what works best for you.
