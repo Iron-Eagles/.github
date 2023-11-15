@@ -6,6 +6,8 @@ To anyone who is currently a member of the club and needs help with the codebase
 
 Mr. Strzyinski should also have full ownership access, and ownership should be passed along cheif coders as necessary.
 
+## Practices
+
 In general, I recommend creating a fresh repository for each year of the club, named 20XX-First-Last to keep naming consistent. New repositories need to be forked from the main FTC branch and cloned to a computer, whereby you can open it in Android Studio and proceed from there. General practice suggests keeping code for old robot designs in their respective repositories, that way a team can keep proper track of their progress over a year.
 
 To name your TeleOp files, I suggest adding something like the acronym of the competition, so CS for Center Stage at the time of writing, followed by the robot type, and finally iteration of the code if you have multiple files for the same bot. For example, "CS-PushBot-2". This should give you easy and unique identifers for your drivers and for future reference. 
