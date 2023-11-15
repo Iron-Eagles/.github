@@ -1,6 +1,6 @@
 # Welcome
 
-This is the repository for the Lakes Community High School Robotics Club, Iron Eagles.
+This is the organization of the repositories for the Lakes Community High School Robotics Club, Iron Eagles.
 
 To anyone who is currently a member of the club and needs help with the codebase, please contact Cody Summerson.
 
