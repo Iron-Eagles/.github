@@ -18,4 +18,4 @@ At the time of writing this page, I am currently working on training new apprent
 
 You may always use FIRST's documentation, and decide to retun to OnBotJava if you determine it is better for your skill level. However, I suggest git and Android Studio, as it gives you proper experience with programs used in professional careers. Ultimately, do what works best for you.
 
-And as always, google is your friend, and the control, c, and v keys of the keyboard exist.
+And as always, google is your friend, and the control, c, and v keys of the keyboard are a programmers greatest tool.
