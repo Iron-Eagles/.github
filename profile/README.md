@@ -4,7 +4,7 @@ This is the organization containing the repositories for the Lakes Community Hig
 
 To anyone who is currently a member of the club and needs help with the codebase, please contact Cody Summerson.
 
-Mr. Strzyinski should also have full ownership access, and ownership should be passed along cheif coders as necessary.
+Mr. Strzyinski should also have full ownership access, and ownership should be passed along chief coders as necessary.
 
 ## Practices
 
